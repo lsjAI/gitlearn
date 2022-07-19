@@ -1,4 +1,3 @@
-import numpy as np
-a = 1
+import 
 
 a = c
